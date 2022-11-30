@@ -1,1 +1,5 @@
-# drums
+# Drums
+
+Drums Simulator
+
+Javascript Project
